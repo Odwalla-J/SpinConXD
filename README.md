@@ -19,6 +19,7 @@ Components
 - WaveShare RP2040 Zero (https://s.click.aliexpress.com/e/_c2QOojZx)
 - MPR121 Touch Sensor (https://s.click.aliexpress.com/e/_c3nR2I9J)
 - AS5600 Magnetic Encoder (https://s.click.aliexpress.com/e/_c42hvXdL)
+- OP AMP()
 - 608 Skate Bearing (https://s.click.aliexpress.com/e/_c3YdlI2v)
 - USB-C Breakouts (https://s.click.aliexpress.com/e/_c4PyMsg5)
 
@@ -38,8 +39,6 @@ All parts can be printed in PLA.
 
 I print almost all of my parts at .28mm layer height "Draft" settings in Bambu Slicer, most of these parts are mechanical and aren't benefited by the longer print times and finer details of layer height settings like .08mm.
 However, for finer detail on exterior parts, especially sloped areas like the wrist rest, it is recommended to print in .08-.12mm layer heights to reduce the visual artifacts that may occur at larger heights.
-
-#### It is worth printing the Tolerance Cube file to verify that your printer is calibrated correctly so that the M3 nut can be press fit, the heat insert isn't loose, and the M3 holes are just barely large enough. 
 
 Part orientations are shown below:
  
