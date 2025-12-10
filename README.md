@@ -6,7 +6,7 @@ Contributions and feedback can be given on my Discord in the corresponding chann
 
 (insert picture)
 
-
+### The SpinCon is receiving updates to the touch electrode design and physical revisions based on community feedback, the files will be posted once complete.
 
 ## Bill of Materials
 
